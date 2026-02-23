@@ -1,0 +1,6 @@
+id44,Wagyu japones,4,20:32 
+id13,Bistec Kobe,2,20:33 
+id44,Bistec Kobe,4,20:39 
+id15,Bolets enoki,10,20:40 
+id15,Mandonguilles de caviar,10,20:40 
+id15,Algues d'arbre negre,5,20:40 
