@@ -10,7 +10,11 @@ Este repositorio actúa como mi **portfolio académico y personal**. Aquí recop
 
 Debido a la naturaleza del doble grado, a lo largo de los repositorios encontrarás código escrito en diversos lenguajes, adaptados a las necesidades de cada asignatura (desde análisis de datos y cálculo numérico hasta sistemas a bajo nivel y programación orientada a objetos):
 
-* **Python** * **Java** * **C** * **C++** * **SQL**
+* **Python**
+* **Java** 
+* **C** 
+* **C++** 
+* **SQL**
 
 ---
 
