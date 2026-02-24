@@ -1,0 +1,339 @@
+constructorId,constructor_name,year,total_points
+22,Benetton,1994,103
+3,Williams,1994,118
+6,Ferrari,1994,71
+17,Jordan,1994,28
+25,Tyrrell,1994,13
+15,Sauber,1994,12
+32,"Team Lotus",1994,0
+18,Minardi,1994,5
+33,Larrousse,1994,2
+27,Ligier,1994,13
+31,Simtek,1994,0
+1,McLaren,1994,42
+29,Footwork,1994,9
+30,Pacific,1994,0
+22,Benetton,1995,147
+3,Williams,1995,118
+6,Ferrari,1995,73
+1,McLaren,1995,30
+25,Tyrrell,1995,5
+27,Ligier,1995,24
+30,Pacific,1995,0
+28,Forti,1995,0
+29,Footwork,1995,5
+18,Minardi,1995,1
+15,Sauber,1995,18
+17,Jordan,1995,21
+31,Simtek,1995,0
+3,Williams,1996,175
+6,Ferrari,1996,70
+22,Benetton,1996,68
+1,McLaren,1996,49
+25,Tyrrell,1996,5
+27,Ligier,1996,15
+15,Sauber,1996,11
+29,Footwork,1996,1
+18,Minardi,1996,0
+17,Jordan,1996,22
+28,Forti,1996,0
+1,McLaren,1997,63
+6,Ferrari,1997,102
+22,Benetton,1997,67
+20,Prost,1997,21
+15,Sauber,1997,16
+3,Williams,1997,123
+18,Minardi,1997,0
+21,Arrows,1997,9
+24,Stewart,1997,6
+25,Tyrrell,1997,2
+17,Jordan,1997,33
+26,Lola,1997,0
+1,McLaren,1998,156
+3,Williams,1998,38
+6,Ferrari,1998,133
+15,Sauber,1998,10
+22,Benetton,1998,33
+17,Jordan,1998,34
+20,Prost,1998,1
+25,Tyrrell,1998,0
+21,Arrows,1998,6
+18,Minardi,1998,0
+24,Stewart,1998,5
+6,Ferrari,1999,128
+17,Jordan,1999,61
+3,Williams,1999,35
+22,Benetton,1999,16
+24,Stewart,1999,36
+21,Arrows,1999,1
+16,BAR,1999,0
+18,Minardi,1999,1
+15,Sauber,1999,5
+20,Prost,1999,9
+1,McLaren,1999,124
+6,Ferrari,2000,170
+3,Williams,2000,36
+16,BAR,2000,20
+22,Benetton,2000,20
+18,Minardi,2000,0
+20,Prost,2000,0
+15,Sauber,2000,6
+17,Jordan,2000,17
+1,McLaren,2000,162
+21,Arrows,2000,7
+19,Jaguar,2000,4
+6,Ferrari,2001,179
+1,McLaren,2001,102
+15,Sauber,2001,21
+17,Jordan,2001,19
+16,BAR,2001,17
+19,Jaguar,2001,9
+20,Prost,2001,4
+21,Arrows,2001,1
+18,Minardi,2001,0
+22,Benetton,2001,10
+3,Williams,2001,80
+6,Ferrari,2002,221
+3,Williams,2002,92
+1,McLaren,2002,65
+19,Jaguar,2002,8
+18,Minardi,2002,2
+7,Toyota,2002,2
+16,BAR,2002,7
+21,Arrows,2002,2
+17,Jordan,2002,9
+4,Renault,2002,23
+15,Sauber,2002,11
+1,McLaren,2003,142
+3,Williams,2003,144
+6,Ferrari,2003,158
+4,Renault,2003,88
+15,Sauber,2003,19
+16,BAR,2003,26
+18,Minardi,2003,0
+17,Jordan,2003,13
+19,Jaguar,2003,18
+7,Toyota,2003,16
+6,Ferrari,2004,262
+4,Renault,2004,105
+3,Williams,2004,88
+16,BAR,2004,119
+1,McLaren,2004,69
+15,Sauber,2004,34
+19,Jaguar,2004,10
+7,Toyota,2004,9
+17,Jordan,2004,5
+18,Minardi,2004,1
+4,Renault,2005,191
+6,Ferrari,2005,100
+9,"Red Bull",2005,34
+3,Williams,2005,66
+1,McLaren,2005,182
+7,Toyota,2005,88
+15,Sauber,2005,20
+16,BAR,2005,38
+17,Jordan,2005,12
+18,Minardi,2005,7
+4,Renault,2006,206
+6,Ferrari,2006,201
+1,McLaren,2006,110
+11,Honda,2006,86
+3,Williams,2006,11
+9,"Red Bull",2006,16
+5,"Toro Rosso",2006,1
+2,"BMW Sauber",2006,36
+7,Toyota,2006,35
+13,MF1,2006,0
+8,"Super Aguri",2006,0
+14,"Spyker MF1",2006,0
+6,Ferrari,2007,204
+1,McLaren,2007,218
+2,"BMW Sauber",2007,101
+4,Renault,2007,51
+3,Williams,2007,33
+7,Toyota,2007,13
+11,Honda,2007,6
+8,"Super Aguri",2007,4
+9,"Red Bull",2007,24
+5,"Toro Rosso",2007,8
+12,Spyker,2007,1
+1,McLaren,2008,151
+2,"BMW Sauber",2008,135
+3,Williams,2008,26
+4,Renault,2008,80
+5,"Toro Rosso",2008,39
+6,Ferrari,2008,172
+7,Toyota,2008,56
+8,"Super Aguri",2008,0
+9,"Red Bull",2008,29
+10,"Force India",2008,0
+11,Honda,2008,14
+23,Brawn,2009,172
+7,Toyota,2009,59.5
+4,Renault,2009,26
+3,Williams,2009,34.5
+5,"Toro Rosso",2009,8
+10,"Force India",2009,13
+2,"BMW Sauber",2009,36
+9,"Red Bull",2009,153.5
+6,Ferrari,2009,70
+1,McLaren,2009,71
+6,Ferrari,2010,396
+1,McLaren,2010,454
+9,"Red Bull",2010,498
+131,Mercedes,2010,214
+10,"Force India",2010,68
+3,Williams,2010,69
+4,Renault,2010,163
+5,"Toro Rosso",2010,13
+205,Lotus,2010,0
+15,Sauber,2010,44
+164,HRT,2010,0
+166,Virgin,2010,0
+9,"Red Bull",2011,650
+1,McLaren,2011,497
+4,Renault,2011,73
+6,Ferrari,2011,375
+5,"Toro Rosso",2011,41
+10,"Force India",2011,69
+205,Lotus,2011,0
+166,Virgin,2011,0
+3,Williams,2011,5
+131,Mercedes,2011,165
+15,Sauber,2011,44
+164,HRT,2011,0
+1,McLaren,2012,378
+9,"Red Bull",2012,460
+6,Ferrari,2012,400
+15,Sauber,2012,126
+208,"Lotus F1",2012,303
+5,"Toro Rosso",2012,26
+10,"Force India",2012,109
+131,Mercedes,2012,142
+3,Williams,2012,76
+206,Marussia,2012,0
+207,Caterham,2012,0
+164,HRT,2012,0
+208,"Lotus F1",2013,315
+6,Ferrari,2013,354
+9,"Red Bull",2013,596
+131,Mercedes,2013,360
+10,"Force India",2013,77
+1,McLaren,2013,122
+5,"Toro Rosso",2013,33
+15,Sauber,2013,57
+3,Williams,2013,5
+206,Marussia,2013,0
+207,Caterham,2013,0
+131,Mercedes,2014,701
+1,McLaren,2014,181
+6,Ferrari,2014,216
+3,Williams,2014,320
+10,"Force India",2014,155
+5,"Toro Rosso",2014,30
+15,Sauber,2014,0
+206,Marussia,2014,2
+208,"Lotus F1",2014,10
+207,Caterham,2014,0
+9,"Red Bull",2014,405
+131,Mercedes,2015,703
+6,Ferrari,2015,428
+3,Williams,2015,257
+15,Sauber,2015,36
+9,"Red Bull",2015,187
+10,"Force India",2015,136
+5,"Toro Rosso",2015,67
+1,McLaren,2015,27
+208,"Lotus F1",2015,78
+209,"Manor Marussia",2015,0
+131,Mercedes,2016,765
+6,Ferrari,2016,398
+9,"Red Bull",2016,468
+3,Williams,2016,138
+210,"Haas F1 Team",2016,29
+10,"Force India",2016,173
+5,"Toro Rosso",2016,63
+4,Renault,2016,8
+1,McLaren,2016,76
+15,Sauber,2016,2
+209,"Manor Marussia",2016,1
+6,Ferrari,2017,522
+131,Mercedes,2017,668
+9,"Red Bull",2017,368
+3,Williams,2017,83
+10,"Force India",2017,187
+5,"Toro Rosso",2017,53
+4,Renault,2017,57
+15,Sauber,2017,5
+1,McLaren,2017,30
+210,"Haas F1 Team",2017,47
+6,Ferrari,2018,571
+131,Mercedes,2018,655
+9,"Red Bull",2018,419
+1,McLaren,2018,62
+4,Renault,2018,122
+10,"Force India",2018,111
+15,Sauber,2018,48
+3,Williams,2018,7
+5,"Toro Rosso",2018,33
+210,"Haas F1 Team",2018,93
+131,Mercedes,2019,739
+9,"Red Bull",2019,417
+6,Ferrari,2019,504
+210,"Haas F1 Team",2019,28
+4,Renault,2019,91
+51,"Alfa Romeo",2019,57
+211,"Racing Point",2019,73
+5,"Toro Rosso",2019,85
+1,McLaren,2019,145
+3,Williams,2019,1
+131,Mercedes,2020,573
+6,Ferrari,2020,131
+1,McLaren,2020,202
+211,"Racing Point",2020,210
+213,AlphaTauri,2020,107
+4,Renault,2020,181
+51,"Alfa Romeo",2020,8
+3,Williams,2020,0
+9,"Red Bull",2020,319
+210,"Haas F1 Team",2020,3
+131,Mercedes,2021,604.5
+9,"Red Bull",2021,578.5
+214,"Alpine F1 Team",2021,155
+117,"Aston Martin",2021,77
+6,Ferrari,2021,322.5
+1,McLaren,2021,274
+213,AlphaTauri,2021,142
+51,"Alfa Romeo",2021,13
+210,"Haas F1 Team",2021,0
+3,Williams,2021,23
+6,Ferrari,2022,519
+131,Mercedes,2022,495
+210,"Haas F1 Team",2022,33
+51,"Alfa Romeo",2022,53
+214,"Alpine F1 Team",2022,170
+213,AlphaTauri,2022,35
+117,"Aston Martin",2022,55
+3,Williams,2022,8
+1,McLaren,2022,150
+9,"Red Bull",2022,724
+9,"Red Bull",2023,790
+117,"Aston Martin",2023,266
+6,Ferrari,2023,363
+131,Mercedes,2023,374
+51,"Alfa Romeo",2023,16
+214,"Alpine F1 Team",2023,110
+3,Williams,2023,26
+213,AlphaTauri,2023,22
+210,"Haas F1 Team",2023,9
+1,McLaren,2023,266
+9,"Red Bull",2024,537
+6,Ferrari,2024,595
+131,Mercedes,2024,433
+1,McLaren,2024,609
+117,"Aston Martin",2024,94
+15,Sauber,2024,4
+210,"Haas F1 Team",2024,51
+215,"RB F1 Team",2024,40
+3,Williams,2024,17
+214,"Alpine F1 Team",2024,63

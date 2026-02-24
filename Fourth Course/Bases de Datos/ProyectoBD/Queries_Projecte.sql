@@ -1,0 +1,4 @@
+CREATE VIEW R_TOP2 AS 
+SELECT * FROM results WHERE position = 1 OR position = 2 ORDER BY raceId DESC;
+
+SELECT * FROM R_TOP2;
